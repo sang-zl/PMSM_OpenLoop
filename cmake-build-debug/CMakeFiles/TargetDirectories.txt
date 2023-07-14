@@ -1,0 +1,3 @@
+C:/Users/DrSan/Desktop/PMSM_Openloop/cmake-build-debug/CMakeFiles/PMSM_Openloop.elf.dir
+C:/Users/DrSan/Desktop/PMSM_Openloop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DrSan/Desktop/PMSM_Openloop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
